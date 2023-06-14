@@ -1,7 +1,7 @@
 import React from 'react';
 import { shallow } from 'enzyme';
 import App from './App';
-import Welcome from './Welcome';
+import Welcome from './components/Welcome';
 import Setup from './Setup';
 
 it('renders App without crashing', () => {
